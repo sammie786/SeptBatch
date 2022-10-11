@@ -25,6 +25,7 @@ public class assign2 {
 	public void method3(int a , int b, int c)
 	{
 		
+		System.out.println("Changes done by samreen");
 		System.out.println("third method of the class");
 	}
 	
